@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "id": 2,
+      "title": "Welcome party!",
+      "body": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Labore, voluptatum temporibus recusandae quis possimus corporis perferendis! Exercitationem corporis placeat ut accusantium libero, ratione, dolor eligendi maiores nulla at distinctio consectetur.",
+      "author": "Luigi"
+    },
+    {
+      "id": 3,
+      "title": "Web dev top tips",
+      "body": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Labore, voluptatum temporibus recusandae quis possimus corporis perferendis! Exercitationem corporis placeat ut accusantium libero, ratione, dolor eligendi maiores nulla at distinctio consectetur.",
+      "author": "Yoshi"
+    },
+    {
+      "title": "How to Jump High",
+      "body": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Necessitatibus vero asperiores eum consectetur nulla aliquid reprehenderit assumenda ipsa, ab repellat dolores laborum perferendis enim laudantium non excepturi reiciendis earum quae.",
+      "author": "Mario",
+      "id": 4
+    }
+  ]
+}
